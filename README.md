@@ -1,8 +1,8 @@
-# Clima Live - Weather App
+# Clima Live - Weather App 🌥️
 
 Clima Live is a weather application that provides real-time weather information from any location around the world. The app fetches data using the [WeatherAPI](https://weatherapi.com) and presents the information with a clean and intuitive UI, powered by **Kotlin**, **Jetpack Compose**, and **Retrofit**.
 
-## Features
+## Features 🌟
 
 - **Real-Time Weather Data**: Get current weather information including temperature, humidity, wind speed, and more.
 - **City Search**: Search for weather information by city name.
@@ -10,21 +10,21 @@ Clima Live is a weather application that provides real-time weather information 
 - **Weather Condition Icons**: Displays different weather condition icons based on the city's weather (e.g., sunny, cloudy, rainy).
 - **User-Friendly Interface**: Easy navigation with Jetpack Compose UI for a modern Android experience.
 
-## Tech Stack
+## Tech Stack 🛠️
 
 - **Kotlin**: A modern programming language for Android.
 - **Jetpack Compose**: A fully declarative UI toolkit for Android.
 - **Retrofit**: A type-safe HTTP client for Android used to interact with the WeatherAPI.
 - **WeatherAPI**: A third-party API providing real-time weather information.
 
-## Screenshot
+## Screenshot 📸
 
-![Clima Live Screenshot](screenshots/screenshot_1.jpg)
+![Screenshot](https://github.com/yashmalavade2002/ClimaLive/blob/ac1b07407ca00a320258aa58ef3de6bc5f2037d5/Screenshot_20250123_232610.png)
 
 ## Contact
 
 For any inquiries or feedback, you can reach out to me:
 
-- **Phone**: +91 9665808170
-- **Email**: yashmalvade90@gmail.com
+- 📞 **Phone**: +91 9665808170
+- ✉️ **Email**: yashmalvade90@gmail.com
 
